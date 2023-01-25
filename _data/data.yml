@@ -71,9 +71,66 @@ experiences:
       time: 2021-2022
       company: Agnostiq, Toronto (via Toptal)
       details: |
+        Workflow Orchestration for Heterogenous Computing (Covalent)
         - Built the React front end for a cloud-computing dashboard with an interactive, real-time workflow visualization of tasks hierarchy. Used Socket.IO, Redux Toolkit, and React Flow for interactive workflow graph diagrams.
         - Developed a Node.js back end for the dashboard and worked on the Python back-end, mainly consuming Python APIs in a microservices architecture.
         - Worked with a team of physicists, mathematicians and computer scientists on defining requirements and designing architecture.
+
+    - role: Architect | Tech Lead | Full-stack Developer
+      time: 2018-2021
+      company: Fiddler,  Palo Alto, CA
+      details: |
+        ML Model Monitoring and Model Performance Management
+        - Built the front end of a novel AI explainability platform for ML model management, handling performance, alerts, drift detection, and fairness.
+        - Developed the front-end from the POC version, to MVP, to production in React Redux, MongoDB, and SQL.
+        - Served as the technical lead for the front-end team and as a software architect as the company grew.
+        - Helped architect and develop the company's back-end API in Node.js and Python with TensorFlow.
+        - Learned a lot about machine learning and data science on the job, although those areas stopped being my primary responsibility once the company grew.
+
+    - role: Full Stack Developer
+      time: 2015-2016
+      company: Intro, San Francisco, CA
+      details: |
+        Professional social startup.
+        - Developed the web front-end for a professional networking service—search results for various categories, filtering, profile pages, and social network sign-ins.
+        - Collaborated on a Python back-end working on an API implementation, query-parsing, and OAuth.
+        - Worked on MongoDB data modeling and aggregation queries.
+
+    - role: Software Developer | Architect
+      time: 2009-2013
+      company: MIRACL
+      detalis: |
+        - Collaborated on the design and development of M-PIN–a multi-factor personal identification and management system.
+        - Designed and developed PrivateSky–a secure end-to-end encrypted messaging service. Payloads are encrypted and deciphered only on the client (browser) and username/password authentication is replaced by a M-PIN-based SSO server.
+        - Implemented various clients and SSO servers using JavaScript, MIRACL SDK (elliptic-curve cryptography), HTML5 web workers, Node.js, and MongoDB.
+
+    - role: Java Developer
+      time: 2006-2009
+      company: Medio Systems, Seattle, WA
+      details: |
+        - Worked on the development of a scalable log-aggregation and reporting service using Java, MapReduce, and Oracle.
+        - Worked on a local search prototype for mobile: worked on local business source aggregation, results ranking, and local query parsing using Java.
+        - Contributed to the development of a universal search aggregator: worked on the results ranking system and search extensions using Java, RESTful, and SOAP-based web services.
+
+    - role: Software Engineer
+      time: 2002-2005
+      company: Amazon, Seattle, WA
+      details: |
+        C++ and Java backend engineer at the availability and product ontology teams.
+        - Worked on an experimental graph-based product ontology and a metadata processing system in Java. 
+        - Worked as part of a team that was responsible for the design and development of very high-availability and high-throughput services for product price and availability data.
+        - Worked on problems of scalability, redundancy, and data propagation. Developed multi-threaded servers (C++, TCP/IP, Linux) and various caching and data partitioning systems. Implemented incremental data update solutions (C++, PL/SQL).
+        - Supported and evolved critical high performance routing middleware servers developed in C++.
+        - Handled pager duty for engineering support of business-critical services.
+
+    - role: Developer Intern
+      time: summer 2001
+      company: Microsoft, Redmond, WA
+      details: |
+        Internship with the .NET team.
+        - Completed two projects involving the design and development of extensions for Visual Studio.
+        - Developed IDE extensions in C# and Visual Basic to deal with the automatic conversion of legacy code.
+        - Took courses and learned engineering processes as part of the .NET team.
 
 projects:
   title: Projects
