@@ -91,15 +91,16 @@ experiences:
       time: 2015-2016
       company: Intro, San Francisco, CA
       details: |
-        Professional social startup.
+        Professional social graph startup.
         - Developed the web front-end for a professional networking service—search results for various categories, filtering, profile pages, and social network sign-ins.
         - Collaborated on a Python back-end working on an API implementation, query-parsing, and OAuth.
         - Worked on MongoDB data modeling and aggregation queries.
 
     - role: Software Developer | Architect
       time: 2009-2013
-      company: MIRACL
-      detalis: |
+      company: MIRACL, Sofia / London
+      details: |
+        Authentication solutions and elliptic curve cryptography startup.
         - Collaborated on the design and development of M-PIN–a multi-factor personal identification and management system.
         - Designed and developed PrivateSky–a secure end-to-end encrypted messaging service. Payloads are encrypted and deciphered only on the client (browser) and username/password authentication is replaced by a M-PIN-based SSO server.
         - Implemented various clients and SSO servers using JavaScript, MIRACL SDK (elliptic-curve cryptography), HTML5 web workers, Node.js, and MongoDB.
