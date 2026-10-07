@@ -50,8 +50,7 @@ sidebar:
 career-profile:
   title: Summary
   summary: |
-    Valentin is a senior **Full Stack Developer** with 8+ years of web development experience. Most recently he's worked for clients via **Toptal** and a number of Silicon Valley startups specializing in **JavaScript**, **React**, **NodeJS** and **Python**.
-    His past experience also includes roles as a Java and C++ engineer at small and large companies including Amazon. He has degrees in Computer Science and Mathematics from the University of Washington.
+    Senior software developer with broad experience building **full-stack and distributed systems** across a range of technologies and domains. Experienced in designing and developing production systems spanning **frontend applications, backend services and event-driven architectures**. Currently working primarily with **Clojure and Kafka** on financial and payment systems, with a background in **JavaScript, React, Node.js, Python, Ruby and Java**. Experienced in **software architecture, technical leadership and taking systems from requirements and design through implementation and production**. Holds a BSc in Computer Science from the University of Washington, with minors in Mathematics and Philosophy.
 
 education:
   title: Education
@@ -67,6 +66,17 @@ education:
 experiences:
   title: Work Experience
   info:
+    - role: Senior Software Developer
+      time: 2023-present
+      company: Funding Circle (UK, remote from Bulgaria)
+      details: |
+        Work on the FlexiPay billing and payments team, building and operating event-driven services for billing, payouts and repayments for business customers.
+        - Develop and maintain backend services primarily in Clojure and Kafka Streams, working with event aggregation, stateful processing, ordering, partitioning and idempotency across multiple services.
+        - Designed and implemented new services and event flows, including same-day repayment processing with optimistic processing and reversal handling.
+        - Act as delivery lead for projects, working with product managers on requirements, designing architectures, coordinating dependencies and leading implementation through production.
+        - Develop and maintain Ruby on Rails services and React micro-frontends, alongside code and design reviews.
+        - Own services through deployment, monitoring and production support using AWS, Kubernetes, Helm and Terraform; participate in on-call and mentor other developers.
+
     - role: Full Stack Developer
       time: 2021-2022
       company: Agnostiq, Toronto (via Toptal)
@@ -158,34 +168,40 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: Clojure
+      level: 90%
+
+    - name: Kafka
+      level: 75%
+
     - name: Javascript (ES 2016+)
-      level: 98%
+      level: 85%
 
     - name: Typescript
-      level: 70%
+      level: 65%
 
-    - name: React
-      level: 98%
+    - name: React / HTML / CSS
+      level: 90%
 
     - name: NodeJS
       level: 90%
 
-    - name: HTML5 & CSS
-      level: 90%
-
-    - name: Python
-      level: 75%
+    # - name: HTML5 & CSS
+    #   level: 90%
 
     - name: MongoDB
-      level: 90%
+      level: 85%
 
-    - name: SQL
-      level: 80%
+    - name: SQL/PostgreSQL
+      level: 85%
+
+    - name: Python
+      level: 60%
 
     - name: Haskell
       level: 50%
 
-    - name: Rust
-      level: 40%
+    # - name: Rust
+    #   level: 40%
 
 footer:
